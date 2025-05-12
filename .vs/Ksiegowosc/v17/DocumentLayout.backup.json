@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kodowanie\\C#\\Ksiegowosc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\ksiegowosc\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\ksiegowosc\\view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\ksiegowosc\\model\\faktura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:model\\faktura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\ksiegowosc\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\ksiegowosc\\ksiegowosc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:ksiegowosc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\ksiegowosc\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\ksiegowosc\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\Ksiegowosc\\View\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "View\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Kodowanie\\C#\\Ksiegowosc\\View\\MainPage.xaml.cs*",
+              "RelativeToolTip": "View\\MainPage.xaml.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:06:04.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Faktura.cs",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\Ksiegowosc\\Model\\Faktura.cs",
+              "RelativeDocumentMoniker": "Model\\Faktura.cs",
+              "ToolTip": "D:\\Kodowanie\\C#\\Ksiegowosc\\Model\\Faktura.cs",
+              "RelativeToolTip": "Model\\Faktura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:01:05.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ksiegowosc",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\Ksiegowosc\\Ksiegowosc.csproj",
+              "RelativeDocumentMoniker": "Ksiegowosc.csproj",
+              "ToolTip": "D:\\Kodowanie\\C#\\Ksiegowosc\\Ksiegowosc.csproj",
+              "RelativeToolTip": "Ksiegowosc.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T13:54:55.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\Ksiegowosc\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\Kodowanie\\C#\\Ksiegowosc\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T13:49:20.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\Ksiegowosc\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "D:\\Kodowanie\\C#\\Ksiegowosc\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T13:49:19.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\Ksiegowosc\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "D:\\Kodowanie\\C#\\Ksiegowosc\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:49:12.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\Ksiegowosc\\View\\MainPage.xaml",
+              "RelativeDocumentMoniker": "View\\MainPage.xaml",
+              "ToolTip": "D:\\Kodowanie\\C#\\Ksiegowosc\\View\\MainPage.xaml",
+              "RelativeToolTip": "View\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T13:49:16.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
