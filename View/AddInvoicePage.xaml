@@ -1,0 +1,53 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ksiegowosc.View.AddInvoicePage"
+             Title="Dodaj dokument"
+             NavigationPage.HasNavigationBar="False">
+    <StackLayout Padding="20" Spacing="10">
+        <!-- Wybór typu dokumentu -->
+        <Label Text="Wybierz typ dokumentu:" FontAttributes="Bold" />
+        <Picker x:Name="DocumentTypePicker" 
+                Title="Wybierz typ" 
+                SelectedIndexChanged="OnDocumentTypeChanged">
+            <Picker.Items>
+                <x:String>Faktura</x:String>
+                <x:String>Koszt</x:String>
+            </Picker.Items>
+        </Picker>
+
+        <!-- Pola wspólne dla Faktury i Kosztu -->
+        <Label Text="Numer dokumentu:" />
+        <Entry x:Name="NumerDokumentuEntry" Placeholder="Wpisz numer dokumentu" />
+        <Label Text="Data wystawienia:" />
+        <DatePicker x:Name="DataWystawieniaDatePicker" />
+        <Label Text="Kwota netto:" />
+        <Entry x:Name="KwotaNettoEntry" Placeholder="Wpisz kwotę netto" Keyboard="Numeric" />
+        <Label Text="Stawka VAT (%):" />
+        <Entry x:Name="StawkaVatEntry" Placeholder="Wpisz stawkę VAT" Keyboard="Numeric" />
+        <Label Text="Kwota brutto:" />
+        <Entry x:Name="KwotaBruttoEntry" Placeholder="Wpisz kwotę brutto" Keyboard="Numeric" />
+        <Label Text="Kontrahent:" />
+        <Picker x:Name="KontrahentPicker" Title="Wybierz kontrahenta" />
+
+        <!-- Pola specyficzne dla Faktury -->
+        <Label Text="Data płatności:" IsVisible="False" x:Name="DataPlatnosciLabel" />
+        <DatePicker x:Name="DataPlatnosciDatePicker" IsVisible="False" />
+        <Label Text="Status:" IsVisible="False" x:Name="StatusLabel" />
+        <Picker x:Name="StatusPicker" IsVisible="False" Title="Wybierz status">
+            <Picker.Items>
+                <x:String>Oplacona</x:String>
+                <x:String>Nieopłacona</x:String>
+                <x:String>Przedawniona</x:String>
+            </Picker.Items>
+        </Picker>
+
+        <!-- Pola specyficzne dla Kosztu -->
+        <Label Text="Opis:" IsVisible="False" x:Name="OpisLabel" />
+        <Entry x:Name="OpisEntry" IsVisible="False" Placeholder="Wpisz opis" />
+        <Label Text="Kategoria:" IsVisible="False" x:Name="KategoriaLabel" />
+        <Entry x:Name="KategoriaEntry" IsVisible="False" Placeholder="Wpisz kategorię" />
+
+        <!-- Przycisk zapisu -->
+        <Button Text="Zapisz" Clicked="OnSaveClicked" />
+    </StackLayout>
+</ContentPage>

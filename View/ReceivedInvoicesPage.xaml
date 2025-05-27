@@ -1,0 +1,20 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ksiegowosc.View.ReceivedInvoicesPage"
+             Title="Faktury do opłacenia"
+             NavigationPage.HasNavigationBar="False">
+    <CollectionView ItemsSource="{Binding Koszty}">
+        <CollectionView.ItemTemplate>
+            <DataTemplate>
+                <Grid Padding="10" ColumnDefinitions="*,*,*,*" RowDefinitions="auto,auto">
+                    <Label Text="{Binding NumerDokumentu}" FontAttributes="Bold" />
+                    <Label Text="{Binding KwotaNetto, StringFormat='Kwota netto: {0:C}'}" Grid.Column="1" Grid.Row="0" />
+                    <Label Text="{Binding KwotaBrutto, StringFormat='Kwota brutto: {0:C}'}" Grid.Column="1" Grid.Row="1" />
+                    <Label Text="{Binding DataWystawienia, StringFormat='Data: {0:dd/MM/yyyy}'}" Grid.Column="2" Grid.Row="0" />
+                    <Label Text="{Binding Kontrahent.Nazwa, StringFormat='Kontrahent: {0}'}" Grid.Column="2" Grid.Row="1" />
+                    <Label Text="{Binding Opis, StringFormat='Opis: {0}'}" Grid.Column="3" Grid.Row="0" />
+                </Grid>
+            </DataTemplate>
+        </CollectionView.ItemTemplate>
+    </CollectionView>
+</ContentPage>

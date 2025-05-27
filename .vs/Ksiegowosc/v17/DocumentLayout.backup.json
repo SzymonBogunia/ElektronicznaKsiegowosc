@@ -1,34 +1,98 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Kodowanie\\C#\\Ksiegowosc\\",
+  "WorkspaceRootPath": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\ksiegowosc\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\elektronicznaksiegowosc\\services\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:services\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\ksiegowosc\\view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\ksiegowosc\\model\\faktura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:model\\faktura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\ksiegowosc\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\ksiegowosc\\ksiegowosc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:ksiegowosc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\ksiegowosc\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\elektronicznaksiegowosc\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\ksiegowosc\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\elektronicznaksiegowosc\\view\\addinvoicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:view\\addinvoicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\elektronicznaksiegowosc\\view\\addinvoicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:view\\addinvoicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\elektronicznaksiegowosc\\model\\koszt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:model\\koszt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\elektronicznaksiegowosc\\model\\faktura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:model\\faktura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\elektronicznaksiegowosc\\view\\receivedinvoicespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:view\\receivedinvoicespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\elektronicznaksiegowosc\\view\\receivedinvoicespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:view\\receivedinvoicespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\elektronicznaksiegowosc\\services\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:services\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\elektronicznaksiegowosc\\viewmodel\\receivedinvoicesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:viewmodel\\receivedinvoicesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\elektronicznaksiegowosc\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\elektronicznaksiegowosc\\ksiegowosc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:ksiegowosc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\elektronicznaksiegowosc\\viewmodel\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:viewmodel\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\elektronicznaksiegowosc\\view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\elektronicznaksiegowosc\\viewmodel\\issuedinvoicesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:viewmodel\\issuedinvoicesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\elektronicznaksiegowosc\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\elektronicznaksiegowosc\\view\\issuedinvoicespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:view\\issuedinvoicespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\elektronicznaksiegowosc\\view\\issuedinvoicespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:view\\issuedinvoicespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\elektronicznaksiegowosc\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\elektronicznaksiegowosc\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\elektronicznaksiegowosc\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|d:\\kodowanie\\c#\\elektronicznaksiegowosc\\model\\kontrahent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29522AE6-F74E-4904-8B2B-FB00ECD75B62}|Ksiegowosc.csproj|solutionrelative:model\\kontrahent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,98 +102,285 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "D:\\Kodowanie\\C#\\Ksiegowosc\\View\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "View\\MainPage.xaml.cs",
-              "ToolTip": "D:\\Kodowanie\\C#\\Ksiegowosc\\View\\MainPage.xaml.cs*",
-              "RelativeToolTip": "View\\MainPage.xaml.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T14:06:04.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Faktura.cs",
-              "DocumentMoniker": "D:\\Kodowanie\\C#\\Ksiegowosc\\Model\\Faktura.cs",
-              "RelativeDocumentMoniker": "Model\\Faktura.cs",
-              "ToolTip": "D:\\Kodowanie\\C#\\Ksiegowosc\\Model\\Faktura.cs",
-              "RelativeToolTip": "Model\\Faktura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T14:01:05.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Ksiegowosc",
-              "DocumentMoniker": "D:\\Kodowanie\\C#\\Ksiegowosc\\Ksiegowosc.csproj",
-              "RelativeDocumentMoniker": "Ksiegowosc.csproj",
-              "ToolTip": "D:\\Kodowanie\\C#\\Ksiegowosc\\Ksiegowosc.csproj",
-              "RelativeToolTip": "Ksiegowosc.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-12T13:54:55.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\Kodowanie\\C#\\Ksiegowosc\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "D:\\Kodowanie\\C#\\Ksiegowosc\\App.xaml",
-              "RelativeToolTip": "App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "AddInvoicePage.xaml",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\View\\AddInvoicePage.xaml",
+              "RelativeDocumentMoniker": "View\\AddInvoicePage.xaml",
+              "ToolTip": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\View\\AddInvoicePage.xaml",
+              "RelativeToolTip": "View\\AddInvoicePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-12T13:49:20.345Z",
+              "WhenOpened": "2025-05-25T16:13:38.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReceivedInvoicesViewModel.cs",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\ViewModel\\ReceivedInvoicesViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ReceivedInvoicesViewModel.cs",
+              "ToolTip": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\ViewModel\\ReceivedInvoicesViewModel.cs",
+              "RelativeToolTip": "ViewModel\\ReceivedInvoicesViewModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAhwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:33:14.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\Services\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "Services\\DatabaseInitializer.cs",
+              "ToolTip": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\Services\\DatabaseInitializer.cs*",
+              "RelativeToolTip": "Services\\DatabaseInitializer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:30:48.476Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:49:12.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReceivedInvoicesPage.xaml.cs",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\View\\ReceivedInvoicesPage.xaml.cs",
+              "RelativeDocumentMoniker": "View\\ReceivedInvoicesPage.xaml.cs",
+              "ToolTip": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\View\\ReceivedInvoicesPage.xaml.cs",
+              "RelativeToolTip": "View\\ReceivedInvoicesPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:32:41.26Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Faktura.cs",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\Model\\Faktura.cs",
+              "RelativeDocumentMoniker": "Model\\Faktura.cs",
+              "ToolTip": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\Model\\Faktura.cs",
+              "RelativeToolTip": "Model\\Faktura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:01:05.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Koszt.cs",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\Model\\Koszt.cs",
+              "RelativeDocumentMoniker": "Model\\Koszt.cs",
+              "ToolTip": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\Model\\Koszt.cs",
+              "RelativeToolTip": "Model\\Koszt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:14:36.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AppShell.xaml",
-              "DocumentMoniker": "D:\\Kodowanie\\C#\\Ksiegowosc\\AppShell.xaml",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\AppShell.xaml",
               "RelativeDocumentMoniker": "AppShell.xaml",
-              "ToolTip": "D:\\Kodowanie\\C#\\Ksiegowosc\\AppShell.xaml",
+              "ToolTip": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\AppShell.xaml",
               "RelativeToolTip": "AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-12T13:49:19.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "D:\\Kodowanie\\C#\\Ksiegowosc\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "MauiProgram.cs",
-              "ToolTip": "D:\\Kodowanie\\C#\\Ksiegowosc\\MauiProgram.cs",
-              "RelativeToolTip": "MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AddInvoicePage.xaml.cs",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\View\\AddInvoicePage.xaml.cs",
+              "RelativeDocumentMoniker": "View\\AddInvoicePage.xaml.cs",
+              "ToolTip": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\View\\AddInvoicePage.xaml.cs",
+              "RelativeToolTip": "View\\AddInvoicePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T13:49:12.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T16:13:49.397Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "D:\\Kodowanie\\C#\\Ksiegowosc\\View\\MainPage.xaml",
-              "RelativeDocumentMoniker": "View\\MainPage.xaml",
-              "ToolTip": "D:\\Kodowanie\\C#\\Ksiegowosc\\View\\MainPage.xaml",
-              "RelativeToolTip": "View\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "Ksiegowosc.csproj",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\Ksiegowosc.csproj",
+              "RelativeDocumentMoniker": "Ksiegowosc.csproj",
+              "ToolTip": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\Ksiegowosc.csproj",
+              "RelativeToolTip": "Ksiegowosc.csproj",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowC0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T13:54:55.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReceivedInvoicesPage.xaml",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\View\\ReceivedInvoicesPage.xaml",
+              "RelativeDocumentMoniker": "View\\ReceivedInvoicesPage.xaml",
+              "ToolTip": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\View\\ReceivedInvoicesPage.xaml",
+              "RelativeToolTip": "View\\ReceivedInvoicesPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-12T13:49:16.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-25T15:32:37.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\View\\MainPage.xaml",
+              "RelativeDocumentMoniker": "View\\MainPage.xaml",
+              "ToolTip": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\View\\MainPage.xaml",
+              "RelativeToolTip": "View\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T13:49:16.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\Services\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Services\\AppDbContext.cs",
+              "ToolTip": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\Services\\AppDbContext.cs",
+              "RelativeToolTip": "Services\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:30:46.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\ViewModel\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\MainPageViewModel.cs",
+              "ToolTip": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\ViewModel\\MainPageViewModel.cs",
+              "RelativeToolTip": "ViewModel\\MainPageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:41:34.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\View\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "View\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\View\\MainPage.xaml.cs",
+              "RelativeToolTip": "View\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:06:04.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IssuedInvoicesViewModel.cs",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\ViewModel\\IssuedInvoicesViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\IssuedInvoicesViewModel.cs",
+              "ToolTip": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\ViewModel\\IssuedInvoicesViewModel.cs",
+              "RelativeToolTip": "ViewModel\\IssuedInvoicesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:44:13.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IssuedInvoicesPage.xaml.cs",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\View\\IssuedInvoicesPage.xaml.cs",
+              "RelativeDocumentMoniker": "View\\IssuedInvoicesPage.xaml.cs",
+              "ToolTip": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\View\\IssuedInvoicesPage.xaml.cs",
+              "RelativeToolTip": "View\\IssuedInvoicesPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:46:36.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IssuedInvoicesPage.xaml",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\View\\IssuedInvoicesPage.xaml",
+              "RelativeDocumentMoniker": "View\\IssuedInvoicesPage.xaml",
+              "ToolTip": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\View\\IssuedInvoicesPage.xaml",
+              "RelativeToolTip": "View\\IssuedInvoicesPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T19:46:22.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T13:49:20.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:37:13.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAnwEQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:17:36.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:05:19.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Kontrahent.cs",
+              "DocumentMoniker": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\Model\\Kontrahent.cs",
+              "RelativeDocumentMoniker": "Model\\Kontrahent.cs",
+              "ToolTip": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\Model\\Kontrahent.cs",
+              "RelativeToolTip": "Model\\Kontrahent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:14:11.011Z"
             }
           ]
         }

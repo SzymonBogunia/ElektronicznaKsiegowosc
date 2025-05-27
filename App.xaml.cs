@@ -1,15 +1,24 @@
-﻿namespace Ksiegowosc
+﻿using Ksiegowosc.Services;
+using Ksiegowosc.View;
+
+namespace Ksiegowosc;
+
+
+public partial class App : Application
 {
-    public partial class App : Application
+    public App(DatabaseInitializer databaseInitializer, AppShell appShell)
     {
-        public App()
+        try
         {
             InitializeComponent();
+            databaseInitializer.InitializeDatabase();
+            MainPage = appShell;
         }
-
-        protected override Window CreateWindow(IActivationState? activationState)
+        catch (Exception ex)
         {
-            return new Window(new AppShell());
+            System.Diagnostics.Debug.WriteLine($"Błąd inicjalizacji w App.xaml.cs: {ex.Message}");
+            System.Diagnostics.Debug.WriteLine($"StackTrace: {ex.StackTrace}");
+            throw;
         }
     }
 }

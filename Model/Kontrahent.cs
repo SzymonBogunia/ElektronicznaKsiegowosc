@@ -10,12 +10,21 @@ namespace Ksiegowosc.Model
     {
         public int IdKontrahenta { get; set; }
         public string Nazwa { get; set; }
-        public string? Nip { get; set; }
-        public int? IdTypu { get; set; }
-        public string? Email { get; set; }
-        public string? Telefon { get; set; }
-        public int? IdAdresu { get; set; }
-        public TypKontrahenta? TypKontrahenta { get; set; }
-        public Adres? Adres { get; set; }
+        public string Nip { get; set; }
+        public string Adres { get; set; }
+        public string Miasto { get; set; }
+        public string Kraj { get; set; }
+        public string Email { get; set; }
+        public string Telefon { get; set; }
+        public TypKontrahenta Typ { get; set; }
+
+        public ICollection<Koszt> Koszty { get; set; }
+        public ICollection<Faktura> Faktury { get; set; }
+
+        public enum TypKontrahenta
+        {
+            Klient,
+            Dostawca
+        }
     }
 }

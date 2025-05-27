@@ -1,15 +1,48 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<Shell
-    x:Class="Ksiegowosc.AppShell"
-    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
-    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:local="clr-namespace:Ksiegowosc"
-    Shell.FlyoutBehavior="Flyout"
-    Title="Ksiegowosc">
+<Shell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:local="clr-namespace:Ksiegowosc.View;assembly=Ksiegowosc"
+       x:Class="Ksiegowosc.AppShell"
+       Shell.FlyoutBehavior="Locked">
 
-    <ShellContent
-        Title="Home"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
+    <!-- Strona główna -->
+    
+        <ShellContent
+            Route="Main"
+            Title="Księgowość"
+            ContentTemplate="{DataTemplate local:MainPage}" />
+
+        <!-- Strona z fakturami -->
+        <ShellContent
+            Route="IssuedInvoices"
+            Title="Wystawione faktury"
+            ContentTemplate="{DataTemplate local:IssuedInvoicesPage}" />
+    
+        <ShellContent
+            Route="ReceviedInvoices"
+            Title="Faktury do opłacenia"
+            ContentTemplate="{DataTemplate local:ReceivedInvoicesPage}"
+                />
+
+        <ShellContent
+            Route="AddInvoice"
+            Title="Dodaj fakturę"
+            ContentTemplate="{DataTemplate local:AddInvoicePage}"
+            
+            />
+    
+        <ShellContent
+            Route=""
+            Title="Przeglądaj kontrahentów"
+    
+            />
+    
+        <ShellContent
+            Route=""
+            Title="Dodaj kontrahenta"
+    
+        />
+
+
+
 
 </Shell>

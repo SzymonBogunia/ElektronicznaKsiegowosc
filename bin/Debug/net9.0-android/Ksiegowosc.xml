@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Ksiegowosc</name>
+    </assembly>
+    <members>
+        <member name="T:Ksiegowosc.ViewModel.IssuedInvoicesViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Ksiegowosc.ViewModel.IssuedInvoicesViewModel.Faktury">
+            <inheritdoc cref="F:Ksiegowosc.ViewModel.IssuedInvoicesViewModel.faktury"/>
+        </member>
+        <member name="T:Ksiegowosc.ViewModel.ReceivedInvoicesViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:Ksiegowosc.ViewModel.ReceivedInvoicesViewModel.Koszty">
+            <inheritdoc cref="F:Ksiegowosc.ViewModel.ReceivedInvoicesViewModel.koszty"/>
+        </member>
+        <member name="T:Ksiegowosc.Resource">
+            <summary>
+            Android Resource Designer class.
+            Exposes the Android Resource designer assembly into the project Namespace.
+            </summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Faktury">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Faktury" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Koszty">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Koszty" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Faktury">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Faktury" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Koszty">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Koszty" generated properties.</summary>
+        </member>
+    </members>
+</doc>
