@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mCRa/KvMC58=",
+  "dgSpecHash": "1yOsWB7D7vQ=",
   "success": true,
-  "projectFilePath": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\Ksiegowosc.csproj",
+  "projectFilePath": "D:\\Wspólny\\ElektronicznaKsiegowosc\\Ksiegowosc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\szyme\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
     "C:\\Users\\szyme\\.nuget\\packages\\googlegson\\2.11.0.3\\googlegson.2.11.0.3.nupkg.sha512",

@@ -63,9 +63,9 @@ public partial class AddInvoicePage : ContentPage
                     NumerDokumentu = NumerDokumentuEntry.Text,
                     DataWystawienia = DataWystawieniaDatePicker.Date,
                     DataPlatnosci = DataPlatnosciDatePicker.Date,
-                    KwotaNetto = int.Parse(KwotaNettoEntry.Text),
-                    StawkaVat = int.Parse(StawkaVatEntry.Text),
-                    KwotaBrutto = int.Parse(KwotaBruttoEntry.Text),
+                    KwotaNetto = decimal.Parse(KwotaNettoEntry.Text),
+                    StawkaVat = decimal.Parse(StawkaVatEntry.Text),
+                    KwotaBrutto = decimal.Parse(KwotaBruttoEntry.Text),
                     Status = (Faktura.StatusFaktury)Enum.Parse(typeof(Faktura.StatusFaktury), StatusPicker.SelectedItem.ToString())
                 };
                 _dbContext.Faktury.Add(faktura);
@@ -78,9 +78,9 @@ public partial class AddInvoicePage : ContentPage
                     NumerDokumentu = NumerDokumentuEntry.Text,
                     DataWystawienia = DataWystawieniaDatePicker.Date,
                     Opis = OpisEntry.Text,
-                    KwotaNetto = int.Parse(KwotaNettoEntry.Text),
-                    StawkaVat = int.Parse(StawkaVatEntry.Text),
-                    KwotaBrutto = int.Parse(KwotaBruttoEntry.Text),
+                    KwotaNetto = decimal.Parse(KwotaNettoEntry.Text),
+                    StawkaVat = decimal.Parse(StawkaVatEntry.Text),
+                    KwotaBrutto = decimal.Parse(KwotaBruttoEntry.Text),
                     Kategoria = KategoriaEntry.Text
                 };
                 _dbContext.Koszty.Add(koszt);
@@ -93,6 +93,33 @@ public partial class AddInvoicePage : ContentPage
         catch (Exception ex)
         {
             await DisplayAlert("B³¹d", $"Wyst¹pi³ b³¹d: {ex.Message}", "OK");
+        }
+    }
+    private void OnNettoOrVatChanged(object sender, TextChangedEventArgs e)
+    {
+        // SprawdŸ, czy oba pola (netto i VAT) zawieraj¹ poprawne wartoœci
+        if (decimal.TryParse(KwotaNettoEntry.Text, out decimal netto) &&
+            decimal.TryParse(StawkaVatEntry.Text, out decimal vatRate))
+        {
+            // SprawdŸ, czy stawka VAT jest w zakresie 0-100
+            if (vatRate >= 0 && vatRate <= 100)
+            {
+                // Oblicz kwotê brutto: brutto = netto * (1 + vat/100)
+                decimal brutto = netto * (1 + vatRate / 100);
+                KwotaBruttoEntry.Text = Math.Round(brutto, 2).ToString("F2"); // Zaokr¹glenie do 2 miejsc po przecinku
+                VatErrorLabel.IsVisible = false;
+            }
+            else
+            {
+                // Poka¿ komunikat o b³êdzie i wyczyœæ pole brutto
+                VatErrorLabel.IsVisible = true;
+                KwotaBruttoEntry.Text = string.Empty;
+            }
+        }
+        else
+        {
+            // Jeœli dane s¹ niepoprawne, wyczyœæ pole brutto
+            KwotaBruttoEntry.Text = string.Empty;
         }
     }
 }

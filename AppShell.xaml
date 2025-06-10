@@ -31,8 +31,9 @@
             />
     
         <ShellContent
-            Route=""
+            Route="ContractorsPage"
             Title="Przeglądaj kontrahentów"
+            ContentTemplate="{DataTemplate local:ContractorsPage}"
     
             />
     

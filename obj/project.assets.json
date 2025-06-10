@@ -49730,11 +49730,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\Ksiegowosc.csproj",
+      "projectUniqueName": "D:\\Wspólny\\ElektronicznaKsiegowosc\\Ksiegowosc.csproj",
       "projectName": "Ksiegowosc",
-      "projectPath": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\Ksiegowosc.csproj",
+      "projectPath": "D:\\Wspólny\\ElektronicznaKsiegowosc\\Ksiegowosc.csproj",
       "packagesPath": "C:\\Users\\szyme\\.nuget\\packages\\",
-      "outputPath": "D:\\Kodowanie\\C#\\ElektronicznaKsiegowosc\\obj\\",
+      "outputPath": "D:\\Wspólny\\ElektronicznaKsiegowosc\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

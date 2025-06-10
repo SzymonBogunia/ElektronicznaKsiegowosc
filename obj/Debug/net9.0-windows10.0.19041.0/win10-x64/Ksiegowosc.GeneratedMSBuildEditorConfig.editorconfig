@@ -23,7 +23,7 @@ build_property.CsWinRTAotOptimizerEnabled = true
 build_property.CsWinRTAotWarningLevel = 
 build_property.CsWinRTAotWarningLevel = 
 build_property.RootNamespace = Ksiegowosc
-build_property.ProjectDir = D:\Kodowanie\C#\ElektronicznaKsiegowosc\
+build_property.ProjectDir = D:\Wspólny\ElektronicznaKsiegowosc\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTAotExportsEnabled = 
@@ -35,49 +35,55 @@ build_property.CsWinRTUseWindowsUIXamlProjections = false
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/Kodowanie/C\#/ElektronicznaKsiegowosc/App.xaml]
+[D:/Wspólny/ElektronicznaKsiegowosc/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Ksiegowosc.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[D:/Kodowanie/C\#/ElektronicznaKsiegowosc/AppShell.xaml]
+[D:/Wspólny/ElektronicznaKsiegowosc/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Ksiegowosc.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[D:/Kodowanie/C\#/ElektronicznaKsiegowosc/Resources/Styles/Colors.xaml]
+[D:/Wspólny/ElektronicznaKsiegowosc/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Ksiegowosc.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[D:/Kodowanie/C\#/ElektronicznaKsiegowosc/Resources/Styles/Styles.xaml]
+[D:/Wspólny/ElektronicznaKsiegowosc/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Ksiegowosc.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[D:/Kodowanie/C\#/ElektronicznaKsiegowosc/View/AddInvoicePage.xaml]
+[D:/Wspólny/ElektronicznaKsiegowosc/View/AddInvoicePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Ksiegowosc.View.AddInvoicePage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\AddInvoicePage.xaml
 build_metadata.AdditionalFiles.RelativePath = View\AddInvoicePage.xaml
 
-[D:/Kodowanie/C\#/ElektronicznaKsiegowosc/View/IssuedInvoicesPage.xaml]
+[D:/Wspólny/ElektronicznaKsiegowosc/View/ContractorsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Ksiegowosc.View.ContractorsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\ContractorsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\ContractorsPage.xaml
+
+[D:/Wspólny/ElektronicznaKsiegowosc/View/IssuedInvoicesPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Ksiegowosc.View.IssuedInvoicesPage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\IssuedInvoicesPage.xaml
 build_metadata.AdditionalFiles.RelativePath = View\IssuedInvoicesPage.xaml
 
-[D:/Kodowanie/C\#/ElektronicznaKsiegowosc/View/MainPage.xaml]
+[D:/Wspólny/ElektronicznaKsiegowosc/View/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Ksiegowosc.View.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = View\MainPage.xaml
 
-[D:/Kodowanie/C\#/ElektronicznaKsiegowosc/View/ReceivedInvoicesPage.xaml]
+[D:/Wspólny/ElektronicznaKsiegowosc/View/ReceivedInvoicesPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Ksiegowosc.View.ReceivedInvoicesPage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\ReceivedInvoicesPage.xaml

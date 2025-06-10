@@ -14,9 +14,9 @@ namespace Ksiegowosc.Model
         public string NumerDokumentu { get; set; }
         public DateTime DataWystawienia { get; set; }
         public DateTime DataPlatnosci { get; set; }
-        public int KwotaNetto { get; set; }
-        public int StawkaVat { get; set; }
-        public int KwotaBrutto { get; set; }
+        public decimal KwotaNetto { get; set; }
+        public decimal StawkaVat { get; set; }
+        public decimal KwotaBrutto { get; set; }
         public StatusFaktury Status { get; set; }
 
         public Kontrahent Kontrahent { get; set; }

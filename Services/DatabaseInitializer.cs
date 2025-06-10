@@ -19,7 +19,8 @@ public class DatabaseInitializer
                 .UseSqlite($"Data Source={_dbPath}")
                 .Options);
 
-        context.Database.EnsureCreated();
+        
+        context.Database.EnsureCreated(); 
 
         
     }

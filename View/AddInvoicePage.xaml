@@ -3,9 +3,9 @@
              x:Class="Ksiegowosc.View.AddInvoicePage"
              Title="Dodaj dokument"
              NavigationPage.HasNavigationBar="False">
+    <ScrollView>
     <StackLayout Padding="20" Spacing="10">
-        <!-- Wybór typu dokumentu -->
-        <Label Text="Wybierz typ dokumentu:" FontAttributes="Bold" />
+        <Label Text="Wybierz typ dokumentu" FontAttributes="Bold" />
         <Picker x:Name="DocumentTypePicker" 
                 Title="Wybierz typ" 
                 SelectedIndexChanged="OnDocumentTypeChanged">
@@ -21,11 +21,15 @@
         <Label Text="Data wystawienia:" />
         <DatePicker x:Name="DataWystawieniaDatePicker" />
         <Label Text="Kwota netto:" />
-        <Entry x:Name="KwotaNettoEntry" Placeholder="Wpisz kwotę netto" Keyboard="Numeric" />
+        <Entry x:Name="KwotaNettoEntry" Placeholder="Wpisz kwote netto" Keyboard="Numeric" TextChanged="OnNettoOrVatChanged"/>
         <Label Text="Stawka VAT (%):" />
-        <Entry x:Name="StawkaVatEntry" Placeholder="Wpisz stawkę VAT" Keyboard="Numeric" />
-        <Label Text="Kwota brutto:" />
-        <Entry x:Name="KwotaBruttoEntry" Placeholder="Wpisz kwotę brutto" Keyboard="Numeric" />
+            <Entry x:Name="StawkaVatEntry" Placeholder="Wpisz stawkę VAT" Keyboard="Numeric" TextChanged="OnNettoOrVatChanged" />
+            <Label x:Name="VatErrorLabel" 
+                   Text="Stawka VAT musi być w zakresie 0-100%" 
+                   TextColor="Red" 
+                   IsVisible="False" />
+            <Label Text="Kwota brutto:" />
+        <Entry x:Name="KwotaBruttoEntry" Placeholder="Wpisz kwotę brutto" Keyboard="Numeric" IsReadOnly="True" />
         <Label Text="Kontrahent:" />
         <Picker x:Name="KontrahentPicker" Title="Wybierz kontrahenta" />
 
@@ -48,6 +52,7 @@
         <Entry x:Name="KategoriaEntry" IsVisible="False" Placeholder="Wpisz kategorię" />
 
         <!-- Przycisk zapisu -->
-        <Button Text="Zapisz" Clicked="OnSaveClicked" />
+        <Button Text="Zapisz" Clicked="OnSaveClicked"/>
     </StackLayout>
+    </ScrollView>
 </ContentPage>

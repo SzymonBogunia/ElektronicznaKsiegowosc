@@ -33,6 +33,8 @@ public static class MauiProgram
         builder.Services.AddTransient<AppShell>();
         builder.Services.AddTransient<ReceivedInvoicesViewModel>();
         builder.Services.AddTransient<ReceivedInvoicesPage>();
+        builder.Services.AddTransient<ContractorsViewModel>();
+        builder.Services.AddTransient<ContractorsPage>();
 
         return builder.Build();
     }

@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ksiegowosc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+fbd58bd94c4fb85faa6e3b7ac67471bab9401498")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+2555fbc1ed08fdaa22b59660980cb5bdf96047f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ksiegowosc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ksiegowosc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
